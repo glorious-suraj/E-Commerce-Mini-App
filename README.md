@@ -49,7 +49,7 @@ npm run android
 ---
 
 ## Limitations
-
+ 
 - Cart is not persisted after app restart
 - Basic UI styling
 
