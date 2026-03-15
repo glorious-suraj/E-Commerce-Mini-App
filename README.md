@@ -1,6 +1,6 @@
 # E-Commerce Mini App
 
-https://github.com/user-attachments/assets/6a850636-e445-486f-9cae-dd47747aa056
+https://github.com/user-attachments/assets/957a5d25-2415-4eaa-a425-887a75ceed32
 
 ## Framework Choice
 
