@@ -1,5 +1,7 @@
 # E-Commerce Mini App
 
+https://github.com/user-attachments/assets/6a850636-e445-486f-9cae-dd47747aa056
+
 ## Framework Choice
 
 This app is built using **React Native with TypeScript**.
